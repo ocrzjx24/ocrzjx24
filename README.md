@@ -19,6 +19,6 @@ i'm studying Computer Science and Design @ UC Davis with experience in web dev, 
 
 ###connect with me!
 
-- [LinkedIn] (https://www.linkedin.com/in/jason-yuanhao-xie/)
-- [Instagram] (https://www.instagram.com/ocrz.jx24/)
+- [LinkedIn](https://www.linkedin.com/in/jason-yuanhao-xie/)
+- [Instagram](https://www.instagram.com/ocrz.jx24/)
 - jasonyhxie.24@gmail.com
