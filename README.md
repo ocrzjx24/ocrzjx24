@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 -->
 
 i'm studying Computer Science and Design @ UC Davis with experience in web dev, game dev, graphic design, & UI/UX design.
+
+connect with me:
+https://www.linkedin.com/in/jason-yuanhao-xie/
+jasonyhxie.24@gmail.com
+@ocrzjx24 on instagram
