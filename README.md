@@ -1,4 +1,4 @@
-## i'm Jason.
+## hello, i'm Jason!
 
 <!--
 **ocrzjx24/ocrzjx24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-i'm studying Computer Science and Design @ UC Davis with experience in web dev, game dev, graphic design, & UI/UX design.
+i'm studying Computer Science + Design @ UC Davis with experience in web dev, game dev, graphic design, & UI/UX design.
 
 ### connect with me!
 
