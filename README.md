@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-i'm a new grad with a BS in both Computer Science + Design @ UC Davis, and with experience in web dev, game dev, graphic design, & UI/UX design.
+graduated 2026 BS Computer Science + BA Design from UC Davis. technical writer @ Salesforce. fullstack dev, UIUX design, graphics.
 
 ### connect with me!
 
